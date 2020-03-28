@@ -8,7 +8,7 @@ The images used in this repo is `php:7.2-apache` and `mysql:5.7`. The goal is to
 ## Up and running
 Clone the repo:
 ```
-$ git clone https://github.com/laravel/laravel.git
+$ git clone git@github.com:mkorsmo/laravel-apache-docker.git
 $ cd laravel
 ```
 
