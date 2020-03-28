@@ -62,6 +62,9 @@ php artisan make:controller BlogPostController --resource
 Controller created successfully.
 ```
 
+## php-artisan set up encryption key
+Run `php artisan key:generate`
+
 ### phpunit
 Run `./vendor/bin/phpunit` to execute tests, example:
 ```
